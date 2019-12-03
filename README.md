@@ -1,2 +1,2 @@
 # gitignore
-Generated .gitignore template using gitignore.io
+A collection of useful .gitignore templates generated using gitignore.io
